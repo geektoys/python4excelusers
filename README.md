@@ -1,4 +1,4 @@
 python4excelusers
 =================
 
-Pandas, IPython Notebook, etc. Tutorials &amp; Scripts aimed at Excel users who want to roam free beyond the confines of spreadsheets
+Cookbooks and other info about using Pandas, IPython Notebook, etc. aimed at Excel users who want to roam free beyond the confines of spreadsheets
