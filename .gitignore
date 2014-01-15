@@ -1,6 +1,0 @@
-#################
-## IPython Notebook
-#################
-
-*.bat
-.ipynb_checkpoints/
